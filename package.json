@@ -1,0 +1,28 @@
+{
+  "name": "random.bg.generator",
+  "version": "1.0.0",
+  "description": "Background Generator and Randomizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iTzBrassy/random.bg.generator.git"
+  },
+  "keywords": [
+    "Gradient",
+    "Color",
+    "Colour",
+    "Random",
+    "Button",
+    "Pick",
+    "CSS"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iTzBrassy/random.bg.generator/issues"
+  },
+  "homepage": "https://github.com/iTzBrassy/random.bg.generator#readme"
+}
